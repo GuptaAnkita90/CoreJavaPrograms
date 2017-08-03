@@ -1,3 +1,5 @@
+//ascii chracters - 128 unique characters
+
 package com.StringsJava;
 
 import java.util.Scanner;
